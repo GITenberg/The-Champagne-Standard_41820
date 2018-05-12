@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '31311'
     url: http://www.gutenberg.org/2009/agents/31311
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41820#The-Champagne-Standard
 gutenberg_issued: '2013-01-11'
 gutenberg_type: Text
 identifiers:
