@@ -1,0 +1,36 @@
+_repo: The-Champagne-Standard_41820
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41820-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lane, John, Mrs.
+    aliases:
+    - King, Anna Eichberg
+    - Lane, Mrs. John
+    - Lane, Anna Eichberg
+    gutenberg_agent_id: '31311'
+    url: http://www.gutenberg.org/2009/agents/31311
+description: ''
+gutenberg_issued: '2013-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 20th century'
+- !lcc 'PR'
+- !lcsh 'Essays'
+- !lcsh 'United States -- Social life and customs -- 20th century'
+tableOfContents: The champagne standard -- American wives and English housekeeping
+  -- Kitchen comedies -- Entertaining -- Temporary power -- The extravagant economy
+  of women -- A modern tendency -- A plea for women architecs -- The electric age
+  -- Gunpowder or toothpowder -- The pleasure of patriotism -- Romance and eyeglasses
+  -- The plague of music -- A domestic danger -- A study of frivolity -- On taking
+  oneself seriously -- Soft-soap.
+title: The Champagne Standard
+url: http://www.gutenberg.org/ebooks/41820
